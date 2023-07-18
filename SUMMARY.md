@@ -4,7 +4,7 @@
 
 ## Deploy
 
-* [Prepare for your Deployment](deploy/prepare-for-your-deployment/README.md)
+* [Prepare for your Deployment CHANGED!!!!](deploy/prepare-for-your-deployment/README.md)
   * [Choosing a Deployment Method](deploy/prepare-for-your-deployment/choosing-a-deployment-method.md)
   * [Hardware Requirements](deploy/prepare-for-your-deployment/hardware-requirements.md)
   * [Rapid Deployment Methods](deploy/prepare-for-your-deployment/rapid-deployment-methods/README.md)
