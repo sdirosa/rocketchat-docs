@@ -4,7 +4,7 @@
 
 ## Components Overview
 
-This deployment architecture consists of several "_micro_" services or smaller components, each focusing on one feature of Rocket.Chat. Imagine that each component provides a _service_, and they are all combined to form your fully operational Rocket.Chat workspace.
+This 123 architecture consists of several "_micro_" services or smaller components, each focusing on one feature of Rocket.Chat. Imagine that each component provides a _service_, and they are all combined to form your fully operational Rocket.Chat workspace.
 
 The components include the following:
 
